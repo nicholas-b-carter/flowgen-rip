@@ -1,5 +1,7 @@
 # Flowgen-rip
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholas-b-carter/flowgen-rip.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 Install using `npm i flowgen-rip --save`
